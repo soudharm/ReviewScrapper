@@ -1,0 +1,10 @@
+---
+applications:
+-   name: Scrapper
+    memory: 360MB
+    disk_quota: 360MB
+    random-route: True
+parameters:
+    memory: 360MB
+    buildpack: 'python_buildpack'
+
